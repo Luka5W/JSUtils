@@ -1,4 +1,6 @@
 # JSUtils
-A bunch of random JavaScript libraries
+_A bunch of random JavaScript libraries_
 
-- [Logger.js] - A simple logging utility
+| File | Version | Description |
+| :--- | ---: | :--- |
+| [Logger.js](./Logger.js) | v1.0.0 | A simple logging utility |
