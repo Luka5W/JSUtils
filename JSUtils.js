@@ -1,2 +1,2 @@
 // Returns the first key with the given value
-if (!Object.getKeyByValue) Object.getKeyByValue = (value) => { return Object.keys(this).find(key => this[key] === value); }
+if (!Object.prototype.getKeyByValue) Object.prototype.getKeyByValue = function(value) { return Object.keys(this).find(k => this[k] === value ); };
