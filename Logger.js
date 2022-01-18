@@ -1,5 +1,5 @@
 /**
- * A logging utility written by @author Lukas Wolf <lukas.wolf@luka5w.com>.
+ * A logging utility written by @author Luka5W.
  * 
  * [https://github.com/Luka5W/JSUtils/blob/v1.0.0/Logger.js]
  * 
